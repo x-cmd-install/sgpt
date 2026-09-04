@@ -1,11 +1,13 @@
 about:
-  description: SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+  description:
+  |
+    SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
   license: MIT
   homepage: 
   head: 51e1a4a
   archived: false
   latestVersion: v2.21.3
-  collectedAt: 2026-09-04T04:57:41Z
+  collectedAt: 2026-09-04T19:52:09Z
 timeline:
   created: 2023-02-25
   lastCommit: 2026-09-04
@@ -16,14 +18,14 @@ popularity:
   fork: 35
   release: 62
   contributor: 6
-  pullRequest: 8
+  pullRequest: 318
   issue: 70
 language:
   Go: 342703
   Shell: 6876
   Nix: 2678
   Dockerfile: 1702
-totalLine: 353959
+totalBytes: 353959
 recent:
   last30d:
     since: 2026-08-05
@@ -33,6 +35,14 @@ recent:
     closedIssue: 3
     openIssue: 0
     commit: 14
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 13
+    openPR: 0
+    closedIssue: 10
+    openIssue: 0
+    commit: 34
   last90d:
     since: 2026-06-06
     release: 2
@@ -57,3 +67,21 @@ recent:
     closedIssue: 18
     openIssue: 0
     commit: 273
+  last720d:
+    since: 2024-09-14
+    release: 16
+    mergedPR: 92
+    openPR: 0
+    closedIssue: 19
+    openIssue: 0
+    commit: 631
+total:
+  release: 62
+  mergedPR: 310
+  openPR: 0
+  closedIssue: 69
+  openIssue: 1
+  commit: 1642
+---
+---
+
