@@ -4,7 +4,7 @@
 
 SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 
-![sgpt](https://repo.x-cmd.io/sgpt.svg)
+![sgpt](https://repo.x-cmd.io/sgpt.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,40 @@ x install sgpt
 - **最新版本**: `v2.21.3` (2026-09-03)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 29 个
-- **发布时间**: 2026-09-03T19:19:04Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/tbckr/sgpt/releases/download/v2.21.3/checksums.txt) | 2.4 KiB | `other` |
+| [checksums.txt.pem](https://github.com/tbckr/sgpt/releases/download/v2.21.3/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/tbckr/sgpt/releases/download/v2.21.3/checksums.txt.sig) | 96 B | `other` |
+| [sgpt-2.21.3-1-aarch64.pkg.tar.zst](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1-aarch64.pkg.tar.zst) | 7.3 MiB | `other` |
+| [sgpt-2.21.3-1-armv7h.pkg.tar.zst](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1-armv7h.pkg.tar.zst) | 7.4 MiB | `other` |
+| [sgpt-2.21.3-1-x86_64.pkg.tar.zst](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1-x86_64.pkg.tar.zst) | 8.0 MiB | `other` |
+| [sgpt-2.21.3-1.aarch64.rpm](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.aarch64.rpm) | 7.4 MiB | `runtime/rpm/aarch64` |
+| [sgpt-2.21.3-1.armv7hl.rpm](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.armv7hl.rpm) | 7.5 MiB | `runtime/rpm/armv7hl` |
+| [sgpt-2.21.3-1.x86_64.rpm](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.x86_64.rpm) | 8.0 MiB | `runtime/rpm/x86_64` |
+| [sgpt_2.21.3_aarch64.apk](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_aarch64.apk) | 7.5 MiB | `other` |
+| [sgpt_2.21.3_amd64.deb](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_amd64.deb) | 8.0 MiB | `runtime/deb/amd64` |
+| [sgpt_2.21.3_arm64.deb](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_arm64.deb) | 7.4 MiB | `runtime/deb/arm64` |
+| [sgpt_2.21.3_armhf.deb](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_armhf.deb) | 7.5 MiB | `runtime/deb/armhf` |
+| [sgpt_2.21.3_armv7.apk](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_armv7.apk) | 7.7 MiB | `other` |
+| [sgpt_2.21.3_x86_64.apk](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_x86_64.apk) | 8.2 MiB | `other` |
+| [sgpt_Darwin_arm64.tar.gz](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_arm64.tar.gz) | 7.8 MiB | `native/darwin/arm64` |
+| [sgpt_Darwin_arm64.tar.gz.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_arm64.tar.gz.sbom.json) | 35.4 KiB | `native/darwin/arm64` |
+| [sgpt_Darwin_x86_64.tar.gz](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_x86_64.tar.gz) | 8.3 MiB | `native/darwin/x64` |
+| [sgpt_Darwin_x86_64.tar.gz.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_x86_64.tar.gz.sbom.json) | 35.5 KiB | `native/darwin/x64` |
+| [sgpt_Linux_arm64.tar.gz](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_arm64.tar.gz) | 7.4 MiB | `native/linux/arm64` |
+| [sgpt_Linux_arm64.tar.gz.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_arm64.tar.gz.sbom.json) | 35.4 KiB | `native/linux/arm64` |
+| [sgpt_Linux_armv7.tar.gz](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_armv7.tar.gz) | 7.5 MiB | `native/linux/arm` |
+| [sgpt_Linux_armv7.tar.gz.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_armv7.tar.gz.sbom.json) | 35.4 KiB | `native/linux/arm` |
+| [sgpt_Linux_x86_64.tar.gz](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_x86_64.tar.gz) | 8.0 MiB | `native/linux/x64` |
+| [sgpt_Linux_x86_64.tar.gz.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_x86_64.tar.gz.sbom.json) | 35.4 KiB | `native/linux/x64` |
+| [sgpt_Windows_arm64.zip](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Windows_arm64.zip) | 7.5 MiB | `native/win/arm64` |
+| [sgpt_Windows_arm64.zip.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Windows_arm64.zip.sbom.json) | 37.9 KiB | `native/win/arm64` |
+| [sgpt_Windows_x86_64.zip](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Windows_x86_64.zip) | 8.3 MiB | `native/win/x64` |
+| [sgpt_Windows_x86_64.zip.sbom.json](https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Windows_x86_64.zip.sbom.json) | 38.0 KiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +94,4 @@ sgpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:02:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:24Z._
