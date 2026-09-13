@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8373888,
       "digest": "sha256:ac04505d6abc1d7118517cd90ebc8c7c930c1c3483d591402fc16417f03cca5e",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-03T19:22:48Z",
       "updated_at": "2026-09-03T19:22:49Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1-x86_64.pkg.tar.zst"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7709193,
       "digest": "sha256:9ce3c96717c97fadc53cdcfc0876bb745749d573e71cc93cb6cb46a0743adddf",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:51Z",
       "updated_at": "2026-09-03T19:22:51Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.aarch64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7883695,
       "digest": "sha256:1e2ea5a9307531aa2657089af9614ce22285759baa4f900ec8f268fcec74d946",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:48Z",
       "updated_at": "2026-09-03T19:22:48Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.armv7hl.rpm"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 8431952,
       "digest": "sha256:3679de8a9e461a235b2daeff3dd18e045cc62a9dae343b93afb0a79d91ac8204",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:47Z",
       "updated_at": "2026-09-03T19:22:48Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.x86_64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 7852947,
       "digest": "sha256:0d99d7aa62988bdb46a4cb60f5a77872dda3f151ea62ed515978ea8427b13b25",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-03T19:22:50Z",
       "updated_at": "2026-09-03T19:22:51Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_aarch64.apk"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8129938,
       "digest": "sha256:fb0f1ca727b328528efd2fea68e61e28257ee4a560d7ea6fe4396b0826c129bd",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-03T19:22:47Z",
       "updated_at": "2026-09-03T19:22:47Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 7714146,
       "digest": "sha256:b3390803d4770c89c80272a32ac5b588647a26de473532d3fc90040c46f23b23",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:46Z",
       "updated_at": "2026-09-03T19:22:46Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 8437097,
       "digest": "sha256:e9a802a63b018a323991237d8243fcea33014c61faee2e9e10569443d72248ac",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-09-03T19:22:46Z",
       "updated_at": "2026-09-03T19:22:46Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_x86_64.tar.gz"
