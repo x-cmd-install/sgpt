@@ -32,7 +32,7 @@ Total: **5,809** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.21.3` (2026-09-03)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 - **Assets in release**: 29
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,809** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 310 · **Open PRs**: 1 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1646
+- **Releases**: 62 · **Merged PRs**: 310 · **Open PRs**: 1 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 5 | 1 | 3 | 0 | 14 |
-| last60d | 2026-07-18 | 2 | 13 | 1 | 3 | 0 | 22 |
-| 90d | 2026-06-18 | 2 | 14 | 1 | 10 | 0 | 50 |
-| last180d | 2026-03-20 | 5 | 19 | 1 | 18 | 0 | 108 |
-| 360d | 2025-09-21 | 13 | 45 | 1 | 18 | 0 | 267 |
-| last720d | 2024-09-26 | 15 | 87 | 1 | 19 | 0 | 624 |
+| 30d | 2026-08-18 | 1 | 5 | 1 | 3 | 0 | 15 |
+| last60d | 2026-07-19 | 2 | 13 | 1 | 3 | 0 | 23 |
+| 90d | 2026-06-19 | 2 | 13 | 1 | 10 | 0 | 51 |
+| last180d | 2026-03-21 | 5 | 19 | 1 | 18 | 0 | 109 |
+| 360d | 2025-09-22 | 13 | 45 | 1 | 18 | 0 | 268 |
+| last720d | 2024-09-27 | 15 | 86 | 1 | 19 | 0 | 625 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:15:12Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:15:27Z._
