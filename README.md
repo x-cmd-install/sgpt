@@ -4,7 +4,7 @@
 
 SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 
-![sgpt](https://repo.x-cmd.io/sgpt.svg)
+[![x-cmd/install — sgpt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sgpt.svg)](https://x-cmd.com/install/sgpt)
 
 ## Install
 
@@ -32,27 +32,27 @@ Total: **5,809** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.21.3` (2026-09-03)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 29
 
 ## Popularity
 
-- **Stars**: 463 · **Forks**: 35 · **Open issues**: 70 · **Contributors**: 6
+- **Stars**: 461 · **Forks**: 35 · **Open issues**: 70 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 310 · **Open PRs**: 1 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1647
+- **Releases**: 62 · **Merged PRs**: 311 · **Open PRs**: 2 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 1 | 3 | 0 | 15 |
-| last60d | 2026-07-20 | 2 | 7 | 1 | 3 | 0 | 23 |
-| 90d | 2026-06-20 | 2 | 13 | 1 | 10 | 0 | 51 |
-| last180d | 2026-03-22 | 5 | 19 | 1 | 18 | 0 | 109 |
-| 360d | 2025-09-23 | 13 | 45 | 1 | 18 | 0 | 268 |
-| last720d | 2024-09-28 | 15 | 86 | 1 | 19 | 0 | 622 |
+| 30d | 2026-08-21 | 1 | 6 | 2 | 3 | 0 | 13 |
+| last60d | 2026-07-22 | 1 | 8 | 2 | 3 | 0 | 23 |
+| 90d | 2026-06-22 | 2 | 14 | 2 | 10 | 0 | 47 |
+| last180d | 2026-03-24 | 5 | 20 | 2 | 18 | 0 | 108 |
+| 360d | 2025-09-25 | 13 | 46 | 2 | 18 | 0 | 266 |
+| last720d | 2024-09-30 | 15 | 87 | 2 | 19 | 0 | 620 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:59:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:12:28Z._
