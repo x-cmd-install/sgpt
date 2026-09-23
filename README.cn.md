@@ -4,7 +4,7 @@
 
 SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
 
-[![x-cmd/install — sgpt Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sgpt.svg?lang=zh)](https://x-cmd.com/install/sgpt)
+[![x-cmd/install — sgpt Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/sgpt.svg?lang=zh)](https://x-cmd.com/install/sgpt)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install sgpt
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 6 | 2 | 3 | 0 | 14 |
-| last60d | 2026-07-24 | 1 | 8 | 2 | 3 | 0 | 24 |
-| 90d | 2026-06-24 | 2 | 14 | 2 | 10 | 0 | 48 |
-| last180d | 2026-03-26 | 5 | 20 | 2 | 18 | 0 | 109 |
-| 360d | 2025-09-27 | 13 | 46 | 2 | 18 | 0 | 267 |
-| last720d | 2024-10-02 | 15 | 87 | 2 | 19 | 0 | 620 |
+| 30d | 2026-08-24 | 1 | 6 | 2 | 3 | 0 | 14 |
+| last60d | 2026-07-25 | 1 | 8 | 2 | 3 | 0 | 24 |
+| 90d | 2026-06-25 | 2 | 14 | 2 | 10 | 0 | 48 |
+| last180d | 2026-03-27 | 5 | 20 | 2 | 18 | 0 | 109 |
+| 360d | 2025-09-28 | 13 | 46 | 2 | 18 | 0 | 267 |
+| last720d | 2024-10-03 | 15 | 86 | 2 | 19 | 0 | 619 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ sgpt 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:16:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:07:47Z._
