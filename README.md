@@ -14,15 +14,15 @@ x install sgpt
 
 ## Code insight
 
-Total: **5,809** lines of code across **48** files in the top 5 languages.
+Total: **5,868** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 5,345 | 1,117 | 1,150 | 37 |
+| Go | 5,396 | 1,123 | 1,159 | 37 |
 | Yaml | 361 | 81 | 39 | 4 |
 | Nix | 35 | 28 | 3 | 1 |
+| Json | 31 | 0 | 0 | 2 |
 | Sh | 24 | 86 | 10 | 4 |
-| Json | 23 | 0 | 0 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **5,809** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.21.3` (2026-09-03)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 29
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **5,809** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 317 · **Open PRs**: 2 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1651
+- **Releases**: 62 · **Merged PRs**: 318 · **Open PRs**: 1 · **Closed issues**: 69 · **Open issues**: 1 · **Commits**: 1653
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 5 | 2 | 3 | 0 | 15 |
-| last60d | 2026-07-27 | 1 | 8 | 2 | 3 | 0 | 25 |
-| 90d | 2026-06-27 | 2 | 14 | 2 | 10 | 0 | 49 |
-| last180d | 2026-03-29 | 5 | 26 | 2 | 18 | 0 | 111 |
-| 360d | 2025-09-30 | 13 | 52 | 2 | 18 | 0 | 269 |
-| last720d | 2024-10-05 | 15 | 92 | 2 | 19 | 0 | 612 |
+| 30d | 2026-08-27 | 1 | 6 | 1 | 3 | 0 | 17 |
+| last60d | 2026-07-28 | 1 | 9 | 1 | 3 | 0 | 27 |
+| 90d | 2026-06-28 | 2 | 15 | 1 | 10 | 0 | 51 |
+| last180d | 2026-03-30 | 5 | 27 | 1 | 18 | 0 | 113 |
+| 360d | 2025-10-01 | 13 | 53 | 1 | 18 | 0 | 271 |
+| last720d | 2024-10-06 | 15 | 93 | 1 | 19 | 0 | 614 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:11:43Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:12:52Z._
