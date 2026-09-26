@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2440,
       "digest": "sha256:d50d246ce734fdd87f92638e0e6b81441e840edd424a5d21f57f6667cd8a70c2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T19:22:52Z",
       "updated_at": "2026-09-03T19:22:52Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/checksums.txt"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 8129938,
       "digest": "sha256:fb0f1ca727b328528efd2fea68e61e28257ee4a560d7ea6fe4396b0826c129bd",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-09-03T19:22:47Z",
       "updated_at": "2026-09-03T19:22:47Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 36319,
       "digest": "sha256:875b118677f5cde72bdb747ab47033621726e9b1b906306620495d6bbe9ec8ad",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:52Z",
       "updated_at": "2026-09-03T19:22:52Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Darwin_x86_64.tar.gz.sbom.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 36263,
       "digest": "sha256:b3916dd5ffc21653177a3570d3a3205c473ab18966759730fc4b2858f7133b18",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T19:22:51Z",
       "updated_at": "2026-09-03T19:22:51Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_armv7.tar.gz.sbom.json"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 8437097,
       "digest": "sha256:e9a802a63b018a323991237d8243fcea33014c61faee2e9e10569443d72248ac",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-09-03T19:22:46Z",
       "updated_at": "2026-09-03T19:22:46Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_x86_64.tar.gz"
