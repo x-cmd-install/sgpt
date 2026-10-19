@@ -47,12 +47,12 @@ Total: **5,868** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 1 | 0 | 0 | 0 | 15 |
-| last60d | 2026-08-19 | 1 | 8 | 1 | 3 | 0 | 30 |
-| 90d | 2026-07-20 | 2 | 10 | 1 | 3 | 0 | 48 |
-| last180d | 2026-04-21 | 5 | 24 | 1 | 11 | 0 | 106 |
-| 360d | 2025-10-23 | 12 | 54 | 1 | 18 | 0 | 266 |
-| last720d | 2024-10-28 | 15 | 90 | 1 | 19 | 0 | 586 |
+| 30d | 2026-09-19 | 0 | 1 | 0 | 0 | 0 | 11 |
+| last60d | 2026-08-20 | 1 | 8 | 1 | 3 | 0 | 29 |
+| 90d | 2026-07-21 | 1 | 10 | 1 | 3 | 0 | 36 |
+| last180d | 2026-04-22 | 5 | 24 | 1 | 11 | 0 | 100 |
+| 360d | 2025-10-24 | 12 | 54 | 1 | 18 | 0 | 261 |
+| last720d | 2024-10-29 | 15 | 90 | 1 | 19 | 0 | 583 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for sgpt lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:44:35Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:48:42Z._
