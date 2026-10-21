@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7709193,
       "digest": "sha256:9ce3c96717c97fadc53cdcfc0876bb745749d573e71cc93cb6cb46a0743adddf",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T19:22:51Z",
       "updated_at": "2026-09-03T19:22:51Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.aarch64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7883695,
       "digest": "sha256:1e2ea5a9307531aa2657089af9614ce22285759baa4f900ec8f268fcec74d946",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-03T19:22:48Z",
       "updated_at": "2026-09-03T19:22:48Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt-2.21.3-1.armv7hl.rpm"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 8428888,
       "digest": "sha256:420587d3a0afe8c26e8e1c15f0ff998015fd1f00dac43577088ba572df0fb494",
-      "download_count": 38,
+      "download_count": 39,
       "created_at": "2026-09-03T19:22:50Z",
       "updated_at": "2026-09-03T19:22:51Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_2.21.3_amd64.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 8437097,
       "digest": "sha256:e9a802a63b018a323991237d8243fcea33014c61faee2e9e10569443d72248ac",
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2026-09-03T19:22:46Z",
       "updated_at": "2026-09-03T19:22:46Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Linux_x86_64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 8662098,
       "digest": "sha256:61a051fb4ac2168fd5fbc74489379320046dcaec2e9dec7472f3d28d49f7c962",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-09-03T19:22:46Z",
       "updated_at": "2026-09-03T19:22:46Z",
       "browser_download_url": "https://github.com/tbckr/sgpt/releases/download/v2.21.3/sgpt_Windows_x86_64.zip"
